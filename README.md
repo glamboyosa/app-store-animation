@@ -1,6 +1,6 @@
 ## APP-STORE-ANIMATION
 
-Recreation of the scroll animation used in the App Store when you view an individual product.
+Recreation of the scroll animation used in the App Store on the app detail page for an app.
 
 ## Tools Used
 
